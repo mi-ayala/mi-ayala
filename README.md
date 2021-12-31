@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Ph.D. student in applied math at McGill University.
+
+I'm interested in using computers as  a tool to do Mathematics.
