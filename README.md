@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **mi-ayala/mi-ayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 
 I'm a Ph.D. student in applied math at McGill University.
 
-I'm interested in using computers as  a tool to do Mathematics.
+I'm interested in using computers as a tool to do Mathematics.
