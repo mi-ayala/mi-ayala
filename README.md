@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Ph.D. student in Applied Math at McGill University.
-
 I like to do Math with my computer.
