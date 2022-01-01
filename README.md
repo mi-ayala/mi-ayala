@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I'm a Ph.D. student in Applied Math at McGill University.
 
-I like to Math with my computer.
+I like to do Math with my computer.
