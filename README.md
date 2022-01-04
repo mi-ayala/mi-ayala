@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like to do Math with my computer.
+I like to do Math with my computer. 
+
+I'm interested in Computer Assisted proofs, rigorous numerics and symbolic computations.
