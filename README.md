@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I like to do Math with my computer. 
 
-I'm interested in Computer Assisted Proofs, Rigorous Numerics and Symbolic Computations.
+I'm interested in Computational Mathematics and pattern formation.
