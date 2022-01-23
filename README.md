@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like to do Math with my computer. 
-
-I'm interested in Computational Mathematics and pattern formation.
+I’m currently working on Computer Assited Proofs applied to Pattern Formation.
