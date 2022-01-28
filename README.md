@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on Computer Assited Proofs applied to Pattern Formation.
+I'm intereseted in Computational Mathematics.
+I'm currently working on Computer Assited Proofs applied to Pattern Formation problems.
