@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I'm interested in Computational Mathematics.
 
-I'm currently working on Computer Assisted Proofs applied to Pattern Formation problems.
+< !--I'm currently working on Computer Assisted Proofs applied to Pattern Formation problems.-->
