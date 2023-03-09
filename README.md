@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm interested in Computational Mathematics.
+<!-- I'm interested in Computational Mathematics. -->
 
 
