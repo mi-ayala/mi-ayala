@@ -1,5 +1,5 @@
 ### Hello there! 👋
-Trying to make the computer do the math for me.
+An Applied Mathematician engaged in experimental mathematics, utilizing computational tools such as Julia, Matlab, and Mathematica to blend theoretical principles with empirical insights. 
 
 
 <!--
