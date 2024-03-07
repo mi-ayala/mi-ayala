@@ -1,5 +1,5 @@
 ### Hello there! 👋
-An Applied Mathematician engaged in experimental mathematics, utilizing computational tools such as Julia, Matlab, and Mathematica to blend theoretical principles with empirical insights. 
+An Applied Mathematician engaged in experimental mathematics, utilizing computational tools such as Julia, Matlab, and Mathematica to blend theoretical principles with empirical insights. Embracing the philosophy that 'Code is the new math'.
 
 
 <!--
