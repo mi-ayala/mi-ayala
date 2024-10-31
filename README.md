@@ -1,5 +1,5 @@
 ### Welcome! 
-Embracing the idea that code is the new math.
+I like to think that code is the new math.
 
 
 <!--
